@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋,I'm Nanda Kishor
+First year engineering student
+learning python 
+interested in artificial intelligence and Ai tools 
 
-<!--
-**nandakishor-011/nandakishor-011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning:
+Python
+Problem solving
+git and github
 
-Here are some ideas to get you started:
+My goals:
+Building projects
+learn to create websites 
+build ai tools 
+future internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
